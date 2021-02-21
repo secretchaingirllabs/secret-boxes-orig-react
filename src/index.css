@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+a{
+  text-decoration: none;
+  color: inherit;
+}
+
+@font-face {
+  font-family: 'Gobold High';
+  font-style: 'normal';
+  font-weight: 400;
+  src: url('./fonts/GoboldHigh.otf');
+}
+
+@font-face {
+  font-family: 'Gobold Bold';
+  font-style: 'normal';
+  font-weight: 400;
+  src: url('./fonts/GoboldBold.otf');
+}
+
+@font-face {
+  font-family: 'Hurley';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./fonts/Hurley1967Script.otf');
+}
+
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./fonts/SourceSansPro.ttf');
+}
+
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./fonts/PoppinsRegular.ttf');
+}
+
+
